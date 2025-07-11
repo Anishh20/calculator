@@ -1,0 +1,22 @@
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons{
+    width: 40px;
+    height:40px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+input{
+    width: 165px;
+    height: 35px;
+    font-size:x-large;
+    margin-bottom: 5px;
+}
+
+h1{
+    text-align: center;
+}
